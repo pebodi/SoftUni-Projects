@@ -4,3 +4,9 @@ C:\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
 C:\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
 C:\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
 C:\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\softuni\projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\softuni\projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\softuni\projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\softuni\projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\softuni\projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\softuni\projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
